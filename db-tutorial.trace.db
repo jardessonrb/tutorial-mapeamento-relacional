@@ -1,0 +1,54 @@
+2023-01-15 23:33:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f pessoa_id [42001-214]
+2023-01-15 23:33:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
+2023-01-15 23:34:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f pessoa_id [42001-214]
+2023-01-15 23:34:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
+2023-01-15 23:34:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f pessoa_id [42001-214]
+2023-01-15 23:34:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
+2023-01-15 23:35:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f pessoa_id [42001-214]
+2023-01-15 23:35:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
+2023-01-15 23:36:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f pessoa_id [42001-214]
+2023-01-15 23:36:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
+2023-01-15 23:37:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FKbqjnfdt4f84a64lp8ymbdpn1f pessoa_id [42001-214]
+2023-01-15 23:37:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
+2023-01-15 23:38:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK8f315x8bh6b7gxcy6whw983b5 [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK8f315x8bh6b7gxcy6whw983b5 pessoa_id [42001-214]
+2023-01-15 23:38:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
+2023-01-15 23:40:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK8f315x8bh6b7gxcy6whw983b5 [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK8f315x8bh6b7gxcy6whw983b5 pessoa_id [42001-214]
+2023-01-15 23:40:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
+2023-01-15 23:40:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK8f315x8bh6b7gxcy6whw983b5 [*]pessoa_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK8f315x8bh6b7gxcy6whw983b5 pessoa_id [42001-214]
+2023-01-15 23:40:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 [*]apartamento_id"; expected "., COMMENT, PRIMARY, UNIQUE, FOREIGN, CHECK"; SQL statement:
+alter table if exists tb_contrato_apartamento add constraint FK7vhrvcqdo2ycxjhlgooyrt5s6 apartamento_id [42001-214]
